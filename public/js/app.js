@@ -1,5 +1,3 @@
-console.log('server side javascript is runnig!')
-
 const weather = document.querySelector('form')
 const search = document.querySelector('input')
 const messageOne = document.querySelector('#message-1')
